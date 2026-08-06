@@ -1,15 +1,15 @@
-# Wishnee Vision
+# tech-dating
 
 Landing page and dashboard built with Next.js 15, featuring authentication via Better Auth and Drizzle ORM for database access.
 
-![Wishnee Vision](./public/og.png)
+![dating.profit.codes](./public/og.png)
 
 > [!WARNING]
 > This project uses Next.js 15-canary to support node runtime on middleware. This is not yet supported in stable version.
 
 ## Tech Stack
 
-- Full-stack framework: Next.js 15-canary
+- Full-stack framework: 
 - UI: Tailwind CSS v4
 - Component library: Shadcn UI
 - Authentication: better-auth
